@@ -1,0 +1,8 @@
+@charset "UTF-8";
+.pp{
+	color:red;
+}
+p{
+	text-color:red;	
+	font-size:200px;
+}
